@@ -5,6 +5,7 @@ addpath ./quat
 %%% ATUALIZACAO HEAD GIT HUB CODE %%%
 %%%%%%%%% NOTE A DIFERENCA %%%%%%%%%%
 %%%%%%%%%%%% DIFF %%%%%%%%%%%%%%%%%%%
+%%%%%%%  NOVA ATT %%%%%%%%%%%%%%%%%%%
 
 %% %%%%%%%%%%%%%%%%%%%%%%%
 %%%     Constantes     %%%
