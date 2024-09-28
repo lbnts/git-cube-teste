@@ -3,6 +3,7 @@ addpath ./mag
 addpath ./quat
 
 %%% ATUALIZACAO HEAD GIT HUB CODE %%%
+%%%%%%%%% NOTE A DIFERENCA %%%%%%%%%%
 
 %% %%%%%%%%%%%%%%%%%%%%%%%
 %%%     Constantes     %%%
