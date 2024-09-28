@@ -2,6 +2,8 @@ clear; close all; clc;
 addpath ./mag
 addpath ./quat
 
+%%% ATUALIZACAO HEAD GIT HUB CODE %%%
+
 %% %%%%%%%%%%%%%%%%%%%%%%%
 %%%     Constantes     %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%
